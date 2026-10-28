@@ -7,10 +7,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jamey-africa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   &nbsp;
-  <a href="mailto:jameyafrica19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  &nbsp;
   <a href="https://www.instagram.com/cottagecoders"><img src="https://img.shields.io/badge/Cottage%20Coders-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Cottage Coders on Instagram"></a>
 </p>
+
+<p align="center">jameyafrica19@gmail.com</p>
 
 <br>
 
@@ -28,20 +28,20 @@ Open to junior developer roles and internships.
   <tr>
     <td width="30%" valign="top">
       <b><a href="https://github.com/jameyafrica/fundazaka">Fundazaka</a></b><br>
-      <sub>React Native · Expo · TypeScript · Supabase</sub>
+      <sub>React Native · Expo · JavaScript · Supabase Auth</sub>
     </td>
     <td valign="top">
-      Offline-first financial app for gig workers and informal traders, with AES-256-CTR encrypted local storage and biometric login. Presented at the FNB Hackathon, October 2026. 498 Jest tests across 39 suites.
+      Offline-first budgeting and financial-literacy app for gig workers and informal traders. Budget data stays on the device, encrypted with AES-256-CTR, with an optional biometric lock; Supabase handles login only. Built for the FNB Hackathon, October 2026. 498 Jest tests across 39 suites.
       <br><br>
     </td>
   </tr>
   <tr>
     <td valign="top">
       <b><a href="https://github.com/jameyafrica/MicroStep">MicroStep</a></b><br>
-      <sub>Dart · Flutter · Firebase Authentication</sub>
+      <sub>Dart · Flutter · SQLite</sub>
     </td>
     <td valign="top">
-      Task tracker that breaks any task into small steps, with a built-in Pomodoro timer and secure user login.
+      Task tracker that breaks any task into micro-steps and shows only the next action, with a built-in focus timer. Offline-first, with local SQLite storage.
       <br><br>
     </td>
   </tr>
@@ -57,7 +57,7 @@ Open to junior developer roles and internships.
   </tr>
   <tr>
     <td valign="top">
-      <b><a href="https://github.com/jameyafrica/CannaComply-SA">CannaComply-SA</a></b><br>
+      <b>CannaComply-SA</b><br>
       <sub>Django · React · SQL</sub>
     </td>
     <td valign="top">
@@ -109,7 +109,6 @@ Open to junior developer roles and internships.
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
@@ -179,4 +178,4 @@ Open to junior developer roles and internships.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/jamey-africa/) · [Email](mailto:jameyafrica19@gmail.com) · [Cottage Coders on Instagram](https://www.instagram.com/cottagecoders)
+[LinkedIn](https://www.linkedin.com/in/jamey-africa/) · jameyafrica19@gmail.com · [Cottage Coders on Instagram](https://www.instagram.com/cottagecoders)
