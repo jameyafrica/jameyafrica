@@ -53,7 +53,7 @@ Open to junior developer roles and internships.
       <sub>JavaScript · IndexedDB · PWA</sub>
     </td>
     <td valign="top">
-      Offline mobile-first app for scoring a round on the course: club, shot direction and a photo per hole, with round history saved on the device.
+      Offline mobile-first app for scoring a round on the course: club, shot direction and a photo per hole, with round history saved on the device. A [Django API](https://github.com/jameyafrica/golf-tracker-api) for it is in progress.
       <br><br>
     </td>
   </tr>
@@ -83,7 +83,7 @@ Open to junior developer roles and internships.
       <sub>Java · JUnit</sub>
     </td>
     <td valign="top">
-      Java command-line tool that automates student programming workflows. Group project with JUnit tests and code review.
+      Java command-line tool that automates student programming workflows. Group project built test-first (TDD) with JUnit and code review.
       <br><br>
     </td>
   </tr>
@@ -175,6 +175,8 @@ Open to junior developer roles and internships.
 - **CS50: Introduction to Computer Science**, Harvard / edX
 - **SheCodes Basics, Add-on and JavaScript**: HTML, CSS and JavaScript fundamentals. [Coursework on GitHub](https://github.com/jameyafrica/SheCodes-Portfolio)
 - **Python and Java Masterclasses**: [Mastering-Java](https://github.com/jameyafrica/Mastering-Java), my public Java roadmap
+- **25-day Python challenge**: 24 small Python projects so far. [25_day_challenge_projects](https://github.com/jameyafrica/25_day_challenge_projects)
+- **Dart**: [Dartpedia](https://github.com/jameyafrica/dartpedia), a command-line Wikipedia search app, and [Birdle](https://github.com/jameyafrica/birdle), a word-guessing game
 - **AWS serverless**: [Serverless-Study-Cards](https://github.com/jameyafrica/Serverless-Study-Cards)
 
 <br>
