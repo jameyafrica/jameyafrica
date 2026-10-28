@@ -1,15 +1,15 @@
-<h1 align="center">Jamey Africa</h1>
-
-<h3 align="center">Software Engineering Student · Mobile, Backend and Cloud</h3>
-
-<p align="center">Cape Town, South Africa</p>
+<p align="center">
+  <img src="assets/banner.svg" alt="Jamey Africa, software engineering student in Cape Town" width="100%">
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jamey-africa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://jameyafrica.github.io"><img src="https://img.shields.io/badge/Portfolio-241D45?style=for-the-badge&logo=githubpages&logoColor=F22AA5" alt="Portfolio"></a>
   &nbsp;
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jameyafrica19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/jamey-africa/"><img src="https://img.shields.io/badge/LinkedIn-241D45?style=for-the-badge&logo=linkedin&logoColor=F22AA5" alt="LinkedIn"></a>
   &nbsp;
-  <a href="https://www.instagram.com/cottagecoders"><img src="https://img.shields.io/badge/Cottage%20Coders-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Cottage Coders on Instagram"></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jameyafrica19@gmail.com"><img src="https://img.shields.io/badge/Email-241D45?style=for-the-badge&logo=gmail&logoColor=F22AA5" alt="Email"></a>
+  &nbsp;
+  <a href="https://www.instagram.com/cottagecoders"><img src="https://img.shields.io/badge/Cottage%20Coders-241D45?style=for-the-badge&logo=instagram&logoColor=F22AA5" alt="Cottage Coders on Instagram"></a>
 </p>
 
 <p align="center">jameyafrica19@gmail.com</p>
@@ -49,11 +49,11 @@ Open to junior developer roles and internships.
   </tr>
   <tr>
     <td valign="top">
-      <b>Golf Tracker</b><br>
-      <sub>Dart · Flutter</sub>
+      <b><a href="https://github.com/jameyafrica/golf-scorecard-pwa">Golf Scorecard</a></b><br>
+      <sub>JavaScript · IndexedDB · PWA</sub>
     </td>
     <td valign="top">
-      Mobile app that tracks personal golf stats on-device, with course search and score logging per course.
+      Offline mobile-first app for scoring a round on the course: club, shot direction and a photo per hole, with round history saved on the device.
       <br><br>
     </td>
   </tr>
@@ -170,6 +170,15 @@ Open to junior developer roles and internships.
 
 <br>
 
+## Learning
+
+- **CS50: Introduction to Computer Science**, Harvard / edX
+- **SheCodes Basics, Add-on and JavaScript**: HTML, CSS and JavaScript fundamentals. [Coursework on GitHub](https://github.com/jameyafrica/SheCodes-Portfolio)
+- **Python and Java Masterclasses**: [Mastering-Java](https://github.com/jameyafrica/Mastering-Java), my public Java roadmap
+- **AWS serverless**: [Serverless-Study-Cards](https://github.com/jameyafrica/Serverless-Study-Cards)
+
+<br>
+
 ## Education
 
 - **Software Engineering Diploma**, WeThinkCode_, South Africa (expected 2027)
@@ -180,4 +189,4 @@ Open to junior developer roles and internships.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/jamey-africa/) · jameyafrica19@gmail.com · [Cottage Coders on Instagram](https://www.instagram.com/cottagecoders)
+[Portfolio](https://jameyafrica.github.io) · [LinkedIn](https://www.linkedin.com/in/jamey-africa/) · jameyafrica19@gmail.com · [Cottage Coders on Instagram](https://www.instagram.com/cottagecoders)
